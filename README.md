@@ -1,6 +1,7 @@
-
 <div align="center">
     # GeraChat
+</div>
+<div align="center">
 	<br>
     <img src="https://badgen.net/github/license/ElmichiYT/GeraChat">
 	<img src="https://badgen.net/github/watchers/ElmichiYT/GeraChat">
