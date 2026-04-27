@@ -1,6 +1,8 @@
 # GeraChat
 Bienvenido a GeraChat!
 Un juego en HTML, CSS y JavaScript para hablar con otras personas en Latam.
+
+Un futuro juego creado por ElmichiYT y Pizzaclap43.
 <div align="center">
 	<br>
     <img src="https://badgen.net/github/license/ElmichiYT/GeraChat">
@@ -10,7 +12,6 @@ Un juego en HTML, CSS y JavaScript para hablar con otras personas en Latam.
 	<img src="https://badgen.net/github/commits/ElmichiYT/GeraChat">
 </div>
 
-Un futuro juego creado por ElmichiYT y Pizzaclap43.
 ## ¿Qué tendrá este juego?
 - **Chat global:** un chat donde podrás hablar con otras personas y hacer amigos!
 - **Mapas:** Intentaremos añadir varios mapas. No está garantizado que sean varios pero se intentará.
