@@ -1,12 +1,14 @@
+
 <div align="center">
+    # GeraChat
+	<br>
     <img src="https://badgen.net/github/license/ElmichiYT/GeraChat">
 	<img src="https://badgen.net/github/watchers/ElmichiYT/GeraChat">
 	<img src="https://badgen.net/github/stars/ElmichiYT/GeraChat">
 	<img src="https://badgen.net/github/releases/ElmichiYT/GeraChat">
 	<img src="https://badgen.net/github/commits/ElmichiYT/GeraChat">
-# GeraChat
 </div>
-
+<br>
 Bienvenido a GeraChat!
 Un juego en HTML, CSS y JavaScript para hablar con otras personas en Latam.
 
