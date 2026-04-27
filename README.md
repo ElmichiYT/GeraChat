@@ -1,6 +1,9 @@
 <div align="center">
     <img src="https://badgen.net/github/license/ElmichiYT/GeraChat">
 	<img src="https://badgen.net/github/watchers/ElmichiYT/GeraChat">
+	<img src="https://badgen.net/github/stars/ElmichiYT/GeraChat">
+	<img src="https://badgen.net/github/releases/ElmichiYT/GeraChat">
+	<img src="https://badgen.net/github/commits/ElmichiYT/GeraChat">
 </div>
 # GeraChat
 Bienvenido a GeraChat!
